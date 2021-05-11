@@ -1,0 +1,5 @@
+print(True)
+print(False)
+print(1.2 + 1)
+print('Aqui eu falo na minha lingua')
+print('Você é ' + 3 * 'muito' + 'legal!')
